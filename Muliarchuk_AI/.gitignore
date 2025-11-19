@@ -22,6 +22,8 @@ wheels/
 
 # Virtual Environment
 venv/
+venv_linux/
+venv_wsl/
 ENV/
 env/
 muliarchuk/
